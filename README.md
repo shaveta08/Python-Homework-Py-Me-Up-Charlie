@@ -32,7 +32,6 @@ In addition, your final script does both print the analysis to the terminal and 
 # PyPoll
 
 * In this Project, we are helping a small, rural town modernize its vote counting process.
-
 * We have a set of poll data called election_data.csv. 
 The dataset is composed of three columns: Voter ID, County, and Candidate. 
 We have created a Python script that analyzes the votes and calculates each of the following:
@@ -43,6 +42,7 @@ We have created a Python script that analyzes the votes and calculates each of t
   - The winner of the election based on popular vote.
 
 * Our analysis look similar to the one below:
+
 Election Results
 -------------------------
 Total Votes: 3521001
